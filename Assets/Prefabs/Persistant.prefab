@@ -975,7 +975,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runningSpeed: 2
-  xSpeed: 100
+  xSpeed: 10
   border: 1.5
 --- !u!114 &8878565191970110776
 MonoBehaviour:
